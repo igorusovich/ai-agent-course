@@ -1,0 +1,13 @@
+{
+  "name": "ai-agent-course",
+  "version": "1.0.0",
+  "description": "Learning AI agents in JavaScript",
+  "type": "module",
+  "scripts": {
+    "lesson1": "node lessons/lesson1-chatbot.js"
+  },
+  "dependencies": {
+    "openai": "^4.52.0",
+    "dotenv": "^16.4.0"
+  }
+}
